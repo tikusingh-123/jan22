@@ -1,0 +1,95 @@
+nodejs
+
+npm
+
+module
+
+module combining 
+module extend
+global objects
+setimeout, clear timeout
+setinterval
+
+
+
+
+nodejs is a event driven programming model.
+
+events
+file operations and handling 
+async and sync
+
+error handling in nodejs
+
+nodejs require('os')
+nodejs memory region
+->resident set 
+-->heap
+-->stack
+-->used heap
+-->code segment
+
+-streams (they are data handling method and are used to read or write input into output sequentially)
+
+streams are way to handle reading/writing files , network communications
+read and write temporarily
+to process smaller chunks of data.
+advantage of stream
+1)memory efficiency
+2)time efficiency
+
+types of stream
+
+events thrown at different isntance of time(stream)
+data , end ,error , finish.
+
+go through readstream and writestream examples
+
+go through zlib and gunzip  examples
+
+https module 
+
+see writehead and setheader
+
+q)Write node js application for reading 
+the string from user and searching in the file 
+and responding it on the response.
+
+express framework
+
+nodemon
+routing (get,put,post,delete)
+route-paths
+get post route using arrays in nodejs
+redirect route in nodejs
+app.use
+get post delete examples 
+static folder in node
+cookie parser
+redirect
+
+response object nodejs
+like 
+1)res.end
+2)res.attachment
+3)res.download
+
+prompt in nodejs
+see examples of how to use it
+
+pugjs (used for template (content will change inside the template).
+
+restfulapi
+(
+http methods are get, put ,post , delete)
+rest server provides acces to resources.
+
+error handling
+try cache block
+next(err)
+mysql in nodejs(connection some query operations)
+express geneator
+pm2
+
+waterline or sqlalize for orm architecture
+
